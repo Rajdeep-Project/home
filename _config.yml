@@ -1,1 +1,4 @@
+url: "https://rajdeep-project.github.io" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
 theme: jekyll-theme-cayman
